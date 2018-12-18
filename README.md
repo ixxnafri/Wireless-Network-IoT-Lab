@@ -11,5 +11,5 @@ Running:
 Once setup, upload the code. After flashing, the serial monitor will start outputting data recieved from the board. To hook it with the Xbee, connect the TX of the ESP to the TX of the Xbee and the RX of the ESP to the RX Xbee. With that, the Xbee will now be sending data to the server every 5 seconds.
 
 
-Video 1: https://drive.google.com/open?id=1jEZNCM8rESPkEd-ywBBBTYvadp-8cXUD
+Video 1: https://drive.google.com/open?id=1jEZNCM8rESPkEd-ywBBBTYvadp-8cXUD  <br />
 Video 2: https://drive.google.com/open?id=1xCJQUs-lTScGYBAcP4b6jp-TAsxHhnFD
